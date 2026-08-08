@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welth — AI Finance Tracker
 
 Welth is a full-stack, AI-powered personal finance and budgeting app built with React Native (Expo). It lets users track accounts, log transactions, set budgets, and use AI to scan receipts and log expenses by voice.
@@ -64,6 +63,5 @@ This project is for educational purposes.
 ---
 
 *Full setup documentation coming soon.*
-=======
 
->>>>>>> c78f3ae6a19ccd6b4429b4195e29912f295481ac
+
